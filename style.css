@@ -75,3 +75,19 @@ section{
 .orange{
     color: orange;
 }
+#second-pic{
+    padding-top: 7%;
+    width: 150%;
+}
+#pic-pad{
+    padding-top: 2%;
+}
+#confident{
+    text-align: right;
+    text-align: left;
+   padding-right: 20%;
+    margin-right: 20%;
+}
+.font-size{
+    font-size: 30px;
+}
