@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;  
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 .first{
     color: blueviolet;
@@ -10,14 +10,17 @@ h1{
 section{
     display: flex;
 }
-.second{
+.first-top-pic{
     width: 50%;
     padding-left: 5%;
     padding-right: 5%;
 }
-.second img{
-    width: 80%;
-    padding-top: 20%;
+.first-top-pic img{
+    width: 70%;
+    padding-left: 10px;
+}
+.last-line{
+    padding-left: 5%;
 }
 .link-button{
     text-decoration: none;
