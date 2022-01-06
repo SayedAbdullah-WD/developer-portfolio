@@ -35,3 +35,43 @@ section{
     background-repeat: no-repeat;
     background-size: 5%;
 }
+.second-part{
+    padding-left: 5%;
+    
+    }
+    .shadow{
+        padding-top: 10%;
+        border-radius: 10px;
+        width: 30%;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: justify;
+        margin-left: 2%;
+        margin-right: 2%;
+    box-shadow:5px 5px 100px plum;
+    
+}
+#blue{background-color: skyblue;
+    background-image: url(illustrators/illustrator-1.png);
+    background-size: 50%;
+    background-repeat: no-repeat;;
+    background-position: top;}
+#purple{background-color: tomato;
+    background-image: url(illustrators/illustrator-2.png);
+    background-position: top;
+    background-size: 50%;
+    background-repeat: no-repeat;}
+#pink{
+    background-color: pink;
+    background-image: url(illustrators/illustrator-3.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 50%;
+}
+.mission{
+    text-align: center;
+    font-size: 44px;
+}
+.orange{
+    color: orange;
+}
